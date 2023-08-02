@@ -1,0 +1,7 @@
+id=flymeadsr
+name=Flyme 10 ADs Remover
+version=1
+versionCode=1
+author=tosasitill
+description=使用模块挂载的方式移除Flyme的广告
+updateJson=https://proxy.tosasitill.top/proxy/raw.githubusercontent.com/tosasitill/Flyme10ADsRemover/main/update.json

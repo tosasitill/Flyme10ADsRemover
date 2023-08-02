@@ -1,0 +1,9 @@
+# Flyme 10 ADs Remover By tosasitill
+ro.vendor.meizu.build.isdaily=true
+ro.vendor.meizu.build.branch=SM8550-QT_bsp
+ro.vendor.meizu.project.id=M2391-8
+ro.vendor.product.flyme.model=M2391
+ro.vendor.build.flyme.version=8
+ro.vendor.build.cta=noncta
+ro.vendor.meizu.build.spt=0
+ro.vendor.meizu.carrier.model=M391Q
